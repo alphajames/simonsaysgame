@@ -1,0 +1,88 @@
+/* font */
+
+/* font size */
+.xl-size{
+  font-size: 4.5rem;
+}
+.l-size{
+  font-size: 4rem;
+}
+.big-size{
+  font-size: 3.5rem;
+}
+.medium-size{
+  font-size: 3rem;
+}
+.small-size{
+  font-size: 2.5rem;
+}
+.xsmall-size{
+  font-size: 1.5rem;
+}
+
+/* font weights  */
+.font-900{
+  font-weight: 900;
+}
+.font-700{
+  font-weight: 700;
+}
+.font-500{
+  font-weight: 500;
+}
+.font-400{
+  font-weight: 400;
+}
+/* font colors */
+.font-black{
+  color: #18191b;
+}
+.font-white{
+  color: #c7c8ca;
+}
+.font-purewhite{
+  color: white;
+}
+/* background colors */
+.bg-green{
+  background-color: #16a085;
+}
+.bg-black{
+  background-color: #18191b;
+}
+.bg-white{
+  background-color: #c7c8ca;
+}
+
+
+/* letter spacing */
+.spacing-1{
+  letter-spacing: 1.5px;
+}
+.spacing-2{
+  letter-spacing: 2px;
+}
+.spacing-3{
+  letter-spacing: 2.5px;
+}
+/* text align */
+.text-center{
+  text-align: center !important;
+}
+.text-left{
+  text-align: left;
+}
+.text-right{
+  text-align: right;
+}
+/* container padding */
+.container-padding{
+  padding: 4% 10%;
+}
+.footer-icon{
+ padding: 5px 20px 30px 0px;
+}
+/* random border */
+.box-border{
+  border: 2px solid black;
+}
